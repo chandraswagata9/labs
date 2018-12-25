@@ -9,7 +9,5 @@ function runList() {
     option.innerHTML = document.getElementById("txtbox").value;
     ddl.options.add(option);
     
-    
-    
 }
 
